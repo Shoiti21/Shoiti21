@@ -1,5 +1,4 @@
 <img src="./public/background.png" alt="background" title="background">
-</br>
 
 - Currently working as a ReactJS/React Native and Node.js developer 🧑‍💻
 - Graduated in Digital Games 🎮
