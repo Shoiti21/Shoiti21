@@ -1,9 +1,3 @@
-<div style="position: relative;">
-  <img src="./public/background.png" alt="background" title="background" style="">
-  <div style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; display: flex;     align-items: center; justify-content: center;">
-    <h3 style="font-weight: 900; text-shadow: -3px 0 black, 0 3px black, 3px 0 black, 0 -3px black;">Hello world! I am Shoiti 👋</h3>
-  </div>
-</div>
 </br>
 
 - Currently working as a ReactJS/React Native and Node.js developer 🧑‍💻
@@ -11,12 +5,12 @@
 - Born and live in Brazil 🇧🇷
 - I love games 😍
 
-#### 👀 Other networks
+### 👀 Other networks
 
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leandro-shoiti/)
 [![itch](https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white)](https://shoiti.itch.io/)
 
-#### 🚀 Technologies and Tools
+### 🚀 Technologies and Tools
 
 <div style="display: inline_block">
   <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
